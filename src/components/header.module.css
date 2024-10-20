@@ -1,0 +1,16 @@
+
+.header{
+    background-color: #007bff;
+    padding: 1rem;
+}
+
+.ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.li{
+    text-align: center;
+    font-size: 2rem;
+}
